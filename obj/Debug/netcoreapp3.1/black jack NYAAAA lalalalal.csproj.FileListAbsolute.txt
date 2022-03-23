@@ -1,0 +1,13 @@
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\bin\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.exe
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\bin\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.deps.json
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\bin\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.runtimeconfig.json
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\bin\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.runtimeconfig.dev.json
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\bin\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.dll
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\bin\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.pdb
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\obj\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.csprojAssemblyReference.cache
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\obj\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.AssemblyInfoInputs.cache
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\obj\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.AssemblyInfo.cs
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\obj\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.csproj.CoreCompileInputs.cache
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\obj\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.dll
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\obj\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.pdb
+C:\Users\johannes.botvidzong\source\repos\black jack NYAAAA lalalalal\black jack NYAAAA lalalalal\obj\Debug\netcoreapp3.1\black jack NYAAAA lalalalal.genruntimeconfig.cache
